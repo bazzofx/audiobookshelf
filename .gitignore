@@ -1,3 +1,7 @@
+#Temp Conversion locations .mp3 / .webm files
+/fetch_audio_metadata/abs-library
+/fetch_audio_metadata/audiobooks
+
 .env
 /dev.js
 **/node_modules/
